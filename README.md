@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Jai Varun 👋
+# Hi there, I'm Jai 👋
 
 ### Software Developer | Java, Spring Boot & AWS | DSA Enthusiast
 
